@@ -1,1 +1,1 @@
-A zero day practical for ALX
+A practical for ALX
